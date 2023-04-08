@@ -23,6 +23,7 @@
   "books":
   [
     {
+      "id":1,
       "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
       "book_name": "Harry Potter and the Philosopher's Stone",
       "author": "J. K. Rowling",
@@ -30,6 +31,17 @@
       "edition": "2021",
       "publisher": "Bloomsbury",
       "cost": 1299,
+      "borrowed": false
+    },
+    {
+      "id":2,
+      "image_url": "https://tse1.mm.bing.net/th?id=OIP.hUNBARsl5-RoOLD6hbhV2AHaLG&pid=Api&P=0",
+      "book_name": "Rich Dad and Poor Dad",
+      "author": "Robert T.Kiyosaki",
+      "genre": "Business",
+      "edition": "2020",
+      "publisher": "Spiegel",
+      "cost": 999,
       "borrowed": false
     }
   ]
