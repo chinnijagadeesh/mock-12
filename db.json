@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "pavan",
+      "password":"pavan143#",
+      "email": "pavan@gmail.com"
+    }, 
+    {
+      "id": 2,
+      "name": "Gail Newbatt",
+      "password": "ap09v6858",
+      "email": "bavani@gmail.com"
+    }
+    , 
+    {
+      "id": 3,
+      "name": "chinni",
+      "password": "chinni@",
+      "email": "chinni1@gmail.com"
+    }
+  ],
+  "books":
+  [
+    {
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false
+    }
+  ]
+}
